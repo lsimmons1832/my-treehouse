@@ -1,14 +1,14 @@
 console.log("First line in JS file: ", Date.now());
 
 function makeDOM(xhrData){
-	
+
 }
 
 
 function executeThisCodeAfterFileLoaded() {
 	console.log("Data Returned: ", Date.now());
 	// var data = JSON.parse(this.responseText);
-	// makeDOM(data);
+	makeDOM(data);
 }
 
 function executeThisCodeAfterFileFails() {
