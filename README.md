@@ -1,1 +1,3 @@
-# my-treehouse
+# My-treehouse
+
+## Project Description
